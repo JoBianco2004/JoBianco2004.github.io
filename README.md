@@ -6,9 +6,8 @@ https://jobianco2004.github.io/
 
 Bug Reports
 - If you find a bug, please report it by opening an issue on GitHub.
-
-- Go to the [Issues page](https://github.com/JoBianco2004/JoBianco2004.github.io/issues)
-- Click **"New Issue"** and describe the problem.
+- All reported bugs and responses can be found in the [Issues page](https://github.com/JoBianco2004/JoBianco2004.github.io/issues).  
+- You can search through past issues and see responses to track progress.
 
 Joey Lo Bianco
 CEN 3078
