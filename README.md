@@ -1,4 +1,6 @@
 ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/JoBianco2004/JoBianco2004.github.io/badge)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10309/badge)](https://www.bestpractices.dev/projects/10309)
+
 A very simple website created using HTML that I will be using to earn a Scorecard score badge and an OpenSSF Best Practice badge.
 
 Version 1.0.0 First Release 
