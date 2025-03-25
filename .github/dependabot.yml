@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # Change this if you're using something like Python (pip) or Java (maven)
+    directory: "/"
+    schedule:
+      interval: "weekly"
