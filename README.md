@@ -8,3 +8,11 @@ CEN 3078
 
 ![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/JoBianco2004/JoBianco2004.github.io/badge)
   
+#Bug Reports
+
+If you find a bug, please report it by opening an issue on GitHub.
+
+- Go to the [Issues page](https://github.com/JoBianco2004/JoBianco2004.github.io/issues)
+- Click **"New Issue"** and describe the problem.
+
+Thank you for helping us improve the project!
