@@ -1,6 +1,6 @@
 A very simple website created using HTML that I will be using to earn a Scorecard score badge and an OpenSSF Best Practice badge.
 
-Website Link: https://jobianco2004.github.io/
+Version 1.0.0 Website Link: https://jobianco2004.github.io/ 
 
 Joey Lo Bianco
 CEN 3078
